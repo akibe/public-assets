@@ -1,0 +1,153 @@
+{
+ "na": {
+  "01.wav": "Na_Test05.wav",
+  "02.wav": "Na_Test04.wav",
+  "03.wav": "Na_Test02.wav",
+  "04.wav": "Na_Test01.wav",
+  "05.wav": "Na_Test03.wav"
+ },
+ "tin": {
+  "01.wav": "Tin_Test01.wav",
+  "02.wav": "Tin_Test47.wav",
+  "03.wav": "Tin_Test28.wav",
+  "04.wav": "Tin_Test29.wav",
+  "05.wav": "Tin_Test27.wav",
+  "06.wav": "Tin_Test26.wav",
+  "07.wav": "Tin_Test24.wav",
+  "08.wav": "Tin_Test25.wav",
+  "09.wav": "Tin_Test13.wav",
+  "10.wav": "Tin_Test32.wav",
+  "11.wav": "Tin_Test06.wav",
+  "12.wav": "Tin_Test02.wav"
+ },
+ "tun": {
+  "01.wav": "Tu_Test01.wav",
+  "02.wav": "Tu_Test13.wav",
+  "03.wav": "Tu_Test06.wav",
+  "04.wav": "Tu_Test09.wav",
+  "05.wav": "Tu_Test12.wav",
+  "06.wav": "Tu_Test05.wav",
+  "07.wav": "Tu_Test08.wav",
+  "08.wav": "Tu_Test04.wav",
+  "09.wav": "Tu_Test15.wav",
+  "10.wav": "Tu_Test16.wav",
+  "11.wav": "Tu_Test02.wav",
+  "12.wav": "Tu_Test28.wav"
+ },
+ "ta": {
+  "01.wav": "Ta_Test04.wav",
+  "02.wav": "Ta_Test44.wav",
+  "03.wav": "Ta_Test06.wav",
+  "04.wav": "Ta_Test46.wav",
+  "05.wav": "Ta_Test47.wav",
+  "06.wav": "Ta_Test05.wav",
+  "07.wav": "Ta_Test19.wav",
+  "08.wav": "Ta_Test07.wav",
+  "09.wav": "Ta_Test22.wav",
+  "10.wav": "Ta_Test39.wav",
+  "11.wav": "Ta_Test09.wav",
+  "12.wav": "Ta_Test23.wav"
+ },
+ "te": {
+  "01.wav": "T_Test02.wav",
+  "02.wav": "T_Test09.wav",
+  "03.wav": "T_Test26.wav",
+  "04.wav": "T_Test27.wav",
+  "05.wav": "T_Test33.wav",
+  "06.wav": "T_Test40.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "07.wav": "T_Test04.wav",
+  "08.wav": "T_Test24.wav",
+  "09.wav": "T_Test28.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "10.wav": "T_Test17.wav",
+  "11.wav": "T_Test46.wav",
+  "12.wav": "T_Test23.wav"
+ },
+ "ti": {
+  "01.wav": "Ti_Test02.wav",
+  "02.wav": "Ti_Test06.wav",
+  "03.wav": "Ti_Test04.wav",
+  "04.wav": "Ti_Test09.wav",
+  "05.wav": "Ti_Test32.wav",
+  "06.wav": "Ti_Test13.wav",
+  "07.wav": "Ti_Test01.wav",
+  "08.wav": "Ti_Test24.wav",
+  "09.wav": "Ti_Test03.wav",
+  "10.wav": "Ti_Test11.wav",
+  "11.wav": "Ti_Test05.wav",
+  "12.wav": "Ti_Test46.wav"
+ },
+ "ke": {
+  "01.wav": "Ka_Test04.wav",
+  "02.wav": "Ka_Test01.wav",
+  "03.wav": "Ka_Test02.wav",
+  "04.wav": "Ka_Test05.wav",
+  "05.wav": "Ka_Test03.wav"
+ },
+ "ge": {
+  "01.wav": "Ge_Test03.wav",
+  "02.wav": "Ge_Test01.wav",
+  "03.wav": "Ge_Test02.wav",
+  "04.wav": "Ge_Test04.wav",
+  "05.wav": "Ge_Test05.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09"
+ },
+ "tr": {
+  "01.wav": "Tr_Test41.wav",
+  "02.wav": "Tr_Test21.wav\uff08-30\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "03.wav": "Tr_Test19.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "04.wav": "Tr_Test28.wav\uff08+35\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "05.wav": "Tr_Test20.wav\uff08-30\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "06.wav": "Tr_Test10.wav\uff08+35\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "07.wav": "Tr_Test44.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "08.wav": "Tr_Test27.wav\uff08+20\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "09.wav": "Tr_Test30.wav\uff08-15\u30bb\u30f3\u30c8\u88dc\u6b63\uff09"
+ },
+ "dha": {
+  "01.wav": "Da_Test18.wav",
+  "02.wav": "Da_Test07.wav",
+  "03.wav": "Da_Test37.wav",
+  "04.wav": "Da_Test41.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "05.wav": "Da_Test15.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "06.wav": "Da_Test36.wav",
+  "07.wav": "Da_Test31.wav\uff08-10\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "08.wav": "Da_Test40.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "09.wav": "Da_Test45.wav\uff08+25\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "10.wav": "Da_Test24.wav",
+  "11.wav": "Da_Test12.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "12.wav": "Da_Test08.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09"
+ },
+ "dhin": {
+  "01.wav": "Dh_Test37.wav",
+  "02.wav": "Dh_Test38.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "03.wav": "Dh_Test17.wav\uff08+10\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "04.wav": "Dh_Test39.wav",
+  "05.wav": "Dh_Test43.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "06.wav": "Dh_Test27.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "07.wav": "Dh_Test44.wav",
+  "08.wav": "Dh_Test06.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "09.wav": "Dh_Test25.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "10.wav": "Dh_Test22.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "11.wav": "Dh_Test36.wav",
+  "12.wav": "Dh_Test31.wav\uff08+5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09"
+ },
+ "di": {
+  "01.wav": "Di_Test05.wav",
+  "02.wav": "Di_Test04.wav",
+  "03.wav": "Di_Test01.wav",
+  "04.wav": "Di_Test02.wav",
+  "05.wav": "Di_Test03.wav"
+ },
+ "n": {
+  "01.wav": "N_Test19.wav",
+  "02.wav": "N_Test16.wav",
+  "03.wav": "N_Test46.wav",
+  "04.wav": "N_Test13.wav",
+  "05.wav": "N_Test50.wav",
+  "06.wav": "N_Test20.wav",
+  "07.wav": "N_Test24.wav",
+  "08.wav": "N_Test18.wav",
+  "09.wav": "N_Test28.wav",
+  "10.wav": "N_Test07.wav",
+  "11.wav": "N_Test11.wav",
+  "12.wav": "N_Test22.wav"
+ }
+}
