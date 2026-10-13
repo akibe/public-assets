@@ -85,10 +85,10 @@
  },
  "ge": {
   "01.wav": "Ge_Test03.wav",
-  "02.wav": "Ge_Test01.wav",
-  "03.wav": "Ge_Test02.wav",
-  "04.wav": "Ge_Test04.wav",
-  "05.wav": "Ge_Test05.wav\uff08-5\u30bb\u30f3\u30c8\u88dc\u6b63\uff09"
+  "02.wav": "Ge_Test01.wav\uff08+86\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "03.wav": "Ge_Test02.wav\uff08-9\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "04.wav": "Ge_Test04.wav\uff08+8\u30bb\u30f3\u30c8\u88dc\u6b63\uff09",
+  "05.wav": "Ge_Test05.wav\uff08-43\u30bb\u30f3\u30c8\u88dc\u6b63\uff09"
  },
  "tr": {
   "01.wav": "Tr_Test41.wav",
