@@ -4,6 +4,7 @@
 - 変更点（元のファイルからの加工）:
   - 打音ごとにテイクを選び、フォルダとファイル名を変えた（元のファイルとの対応は `tabla/sources.json`）。
   - 同じ打音の中で音程と音量を揃えた（音程は再標本化。右面の打音は最大 ±35 セント、ge は低音の高さで揃え最大 86 セント。音量は冒頭 100ms の RMS）。
+  - 冒頭を詰めて打音の位置をそろえた（右面の打音と ke は高音のアタックを先頭から 3ms、ge は鳴り始めの 2ms 前から。切り口は 1ms でフェードイン）。
   - 末尾 40ms をフェードアウトした（元のファイルは音が鳴っている途中で切れているため）。
 - ラベルの意味は Deolekar & Abraham "Tree based classification of tabla strokes"（arXiv 1801.01712）の表1による:
   Da = dha（धा）、Dh = dhin（धीं）、Di = din（दि）、Ge = ge、Ka = ke、N = n（न）、Na = na、T = t/r（त/र）、Ta = ta、Ti = ti、Tin = tin、Tr = tra（त्र）、Tu = tun
